@@ -18,8 +18,8 @@ Este é o repositório foi criado para turma Carreira Única do treinamento Prog
 
 ## Criação da classe ContaCorrenteService
 ##### 2 - Crie a classe ContaCorrente é a nossa de serviço onde contém nossas regras de negócio e você deverá cria-la dentro da pasta Service, e nela deve conter: 
-- Método OperacaoSaque do tipo void (sem retorno) :heavy_check_mark:
---  Este método deve conter a operação de sacar, é preciso dentro deste método chamar o método private Sacar() e você deverá exibir a entrada e saída para o usuário.
+- Método OperacaoSaque do tipo void (sem retorno):heavy_check_mark:
+1- 
 - Método OperacaoSaque do tipo void (sem retorno) :heavy_check_mark:
 - Numero int
 - Saldo double
