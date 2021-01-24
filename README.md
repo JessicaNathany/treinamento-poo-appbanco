@@ -9,5 +9,9 @@ Este é o repositório foi criado para turma Carreira Única do treinamento Prog
  
  ### Siga as instruções do roteiro :page_facing_up:
  
-## Criação da classe Conta
-##### 1 - 
+## Criação da classe ContaCorrente
+##### 1 - Crie a classe ContaCorrente com os seguintes atributos: 
+- Titular string
+- Agencia int
+- Numero int
+- Saldo double
