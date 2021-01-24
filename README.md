@@ -1,3 +1,11 @@
 # treinamento-poo-appbanco
-:computer: :blue_book: Este é o repositório criado para turma Carreira Única, para que possam concluir os exercícios finais o desafio.
-![Badge](https://img.shields.io/badge/Treinamento-Carreira Única-%237159c1?style=for-the-badge&logo=ghost)
+:computer: :blue_book: 
+
+Este é o repositório foi criado para turma Carreira Única do treinamento Programação Orientado a Objetos. Este é o desafio que vocês terão que concluir. Leia as informações abaixo:
+
+ 
+ <h4 align="center"> 
+	🚧  Projeto 🚀 Em construção...  🚧
+ </h4>
+ 
+ 
