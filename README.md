@@ -1,2 +1,3 @@
 # treinamento-poo-appbanco
-Este é o repositório criado para turma Carreira Única, para que possam concluir os exercícios finais o desafio.
+:computer: :blue_book: Este é o repositório criado para turma Carreira Única, para que possam concluir os exercícios finais o desafio.
+![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
