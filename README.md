@@ -9,7 +9,7 @@ Este é o repositório foi criado para turma Carreira Única do treinamento Prog
  
  ### Siga as instruções do roteiro :page_facing_up:
  
-## Criação da classe ContaCorrente
+## Criação da classe ContaCorrenteService
 ##### 1 - Crie a classe ContaCorrente é a nossa entidade e você deverá cria-la dentro da pasta Model, com os seguintes atributos: 
 - Titular string
 - Agencia int
