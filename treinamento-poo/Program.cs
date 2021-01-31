@@ -1,10 +1,9 @@
 ﻿using System;
-using System;
 using treinamento_poo.Service;
 
 namespace treinamento_poo
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

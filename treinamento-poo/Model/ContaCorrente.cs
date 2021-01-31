@@ -2,6 +2,9 @@
 {
     public class ContaCorrente 
     {
-       // coloque os atributos informados no READ.ME no GitHub
+        public string Titular { get; set; }
+        public int Agencia { get; set; }
+        public int Numero { get; set; }
+        public double Saldo { get; set; }
     }
 }
